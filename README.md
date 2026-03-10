@@ -37,7 +37,6 @@ The key distinction is that this isn't just a chatbot—it's an automated resear
 ## Installation
 **Note:** To use on Windows, follow the instructions on the [/feature/windows-support](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama/tree/feature/windows-support) branch. For Linux and MacOS, use this main branch and the follow steps below:
 
-
 1. **Clone the repository:**
 
     ```sh
